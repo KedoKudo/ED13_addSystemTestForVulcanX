@@ -2,7 +2,7 @@
 
 # ----- Project Macro ----- #
 UnitTestCategory := AlgorithmsTest
-UnitTestName := MyAlgorithmTest
+UnitTestName := vulcan.calibration
 TestScript := test.py
 
 # ------------------------------------------------------ #
